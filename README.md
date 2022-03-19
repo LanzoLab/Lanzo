@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
+<img src="https://i.pinimg.com/564x/16/9e/e4/169ee4b37b2544ebd87d23b695bf0a66.jpg"/>
 
 # Fimbo ![GitHub stars](https://img.shields.io/github/stars/imfunniee/fimbo.svg?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/imfunniee/fimbo.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/imfunniee/fimbo.svg?style=popout-square) 
 
@@ -11,6 +11,7 @@ Everyone needs a website to express themselves so i made free website templates.
 Have Fun. 😄
 
 
-### Add your template
+### Lanzo's Lab
 
-If you have a template you want to be on this repo create a PR
+
+🎈🎃✨👑🪁🔮🧪⚗🔌📍📌📎⌛
