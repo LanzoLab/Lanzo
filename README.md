@@ -2,7 +2,7 @@
 
 ### 🧪 Lanzo's Lab
 
-🔌 | click [here](discord.gg/YSXm7t69fZ) to join my discord !
+🔌 | discord.gg/YSXm7t69fZ
 
 
 🎈🎃✨👑🪁🔮🧪⚗🔌📍📌📎⌛
