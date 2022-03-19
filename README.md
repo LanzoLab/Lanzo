@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
+<img src="https://i.pinimg.com/564x/1e/e7/cf/1ee7cf6f555950e77abf6c37508f2d26.jpg"/>
 
 # Fimbo ![GitHub stars](https://img.shields.io/github/stars/imfunniee/fimbo.svg?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/imfunniee/fimbo.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/imfunniee/fimbo.svg?style=popout-square) 
 
